@@ -112,4 +112,4 @@ async def tips(ctx):
     random_tip = random.choice(tips_mengurangi_polusi)
     await ctx.send(f"Salah satu tips mengurangi polusi : {random_tip}")
     
-bot.run('MTE0MjI5NzA2MzAzNjU2NzY3Mg.GGGo7k.5NEUePmRoOxG6ZXktC5yQfGP5NgxyMRktR0YUQ')
+bot.run('Masukan token bot disini!')

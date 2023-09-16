@@ -1,0 +1,3 @@
+kelas ini hebat
+file = open ("eza.txt", "a")
+file.write("kelas ini hebat")

@@ -41,4 +41,4 @@ async def meme(ctx):
     # Kita kemudian dapat mengirim file ini sebagai tolok ukur!
     await ctx.send(file=picture)
     
-bot.run('MTE0MjI5NzA2MzAzNjU2NzY3Mg.GGGo7k.5NEUePmRoOxG6ZXktC5yQfGP5NgxyMRktR0YUQ')
+bot.run('Masukan token bot disini!')
